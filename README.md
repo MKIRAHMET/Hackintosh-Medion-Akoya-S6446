@@ -38,7 +38,6 @@ This repository contains the EFI folder and configuration for running macOS via 
 ## ⚠️ Known Issues
 
 - Shutdown doesn’t fully power off: the OS shuts down, but you must **hold the power button for ~5 seconds** to turn off completely.  
-- (Leave room for additional issues as needed.)
 
 ---
 
